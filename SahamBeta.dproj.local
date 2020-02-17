@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/01/21 20:16:32.000.026,=C:\Users\Phantom\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/02/06 21:01:56.000.502,=C:\Users\Phantom\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/02/06 22:16:05.000.289,=C:\Users\Phantom\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/02/06 23:32:51.000.341,=C:\Users\Phantom\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/02/07 20:46:53.000.353,=C:\Users\Phantom\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/02/07 21:31:46.000.812,=C:\Users\Phantom\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/02/10 17:49:10.000.273,=C:\Users\Phantom\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/02/10 17:49:56.000.944,C:\Users\Phantom\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Phantom\Documents\Embarcadero\Studio\Projects\SAHAM BETA 2\uSahamBeta.pas</Transaction>
+    <Transaction>2019/02/10 17:49:56.000.944,C:\Users\Phantom\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Phantom\Documents\Embarcadero\Studio\Projects\SAHAM BETA 2\uSahamBeta.dfm</Transaction>
+    <Transaction>2019/02/10 17:50:13.000.742,C:\Users\Phantom\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Phantom\Documents\Embarcadero\Studio\Projects\SAHAM BETA 2\SahamBeta.dproj</Transaction>
+    <Transaction>2019/02/11 19:38:55.000.609,=C:\Users\Phantom\Documents\Embarcadero\Studio\Projects\SAHAM BETA 2\Unit1.pas</Transaction>
+    <Transaction>2019/02/11 19:40:01.000.789,C:\Users\Phantom\Documents\Embarcadero\Studio\Projects\SAHAM BETA 2\Unit1.dfm=C:\Users\Phantom\Documents\Embarcadero\Studio\Projects\SAHAM BETA 2\udm.dfm</Transaction>
+    <Transaction>2019/02/11 19:40:01.000.789,C:\Users\Phantom\Documents\Embarcadero\Studio\Projects\SAHAM BETA 2\Unit1.pas=C:\Users\Phantom\Documents\Embarcadero\Studio\Projects\SAHAM BETA 2\udm.pas</Transaction>
+    <Transaction>2019/02/21 16:35:33.000.668,=C:\Users\Phantom\Documents\Embarcadero\Studio\Projects\SAHAM BETA 2\Unit1.pas</Transaction>
+    <Transaction>2019/02/28 12:06:51.000.343,=C:\Users\Phantom\Documents\Embarcadero\Studio\Projects\SAHAM BETA 2\uSahamBetaForecast.pas</Transaction>
+    <Transaction>2019/03/05 18:05:04.000.392,C:\Users\Phantom\Documents\Embarcadero\Studio\Projects\SAHAM BETA 2\uSahamBeta.pas=C:\Users\Phantom\Documents\Embarcadero\Studio\Projects\SAHAM BETA 2\uSahamBetaData.pas</Transaction>
+    <Transaction>2019/03/05 18:05:04.000.392,C:\Users\Phantom\Documents\Embarcadero\Studio\Projects\SAHAM BETA 2\uSahamBeta.dfm=C:\Users\Phantom\Documents\Embarcadero\Studio\Projects\SAHAM BETA 2\uSahamBetaData.dfm</Transaction>
+    <Transaction>2019/03/05 22:20:56.000.387,=C:\Users\Phantom\Documents\Embarcadero\Studio\Projects\SAHAM BETA 2\uSahamBetaForecast2.pas</Transaction>
+    <Transaction>2019/03/05 22:21:55.000.838,C:\Users\Phantom\Documents\Embarcadero\Studio\Projects\SAHAM BETA 2\uSahamBetaForecast.pas=</Transaction>
+    <Transaction>2019/03/05 22:23:35.000.192,C:\Users\Phantom\Documents\Embarcadero\Studio\Projects\SAHAM BETA 2\uSahamBetaForecast.pas=C:\Users\Phantom\Documents\Embarcadero\Studio\Projects\SAHAM BETA 2\uSahamBetaForecast2.pas</Transaction>
+    <Transaction>2019/03/05 22:23:35.000.192,C:\Users\Phantom\Documents\Embarcadero\Studio\Projects\SAHAM BETA 2\uSahamBetaForecast.dfm=C:\Users\Phantom\Documents\Embarcadero\Studio\Projects\SAHAM BETA 2\uSahamBetaForecast2.dfm</Transaction>
+    <Transaction>2019/06/29 16:35:14.000.438,=C:\Users\Phantom\OneDrive\Documents\Embarcadero\Studio\Projects\SAHAM BETA 2\Unit1.pas</Transaction>
+    <Transaction>2019/06/29 16:36:08.000.190,C:\Users\Phantom\OneDrive\Documents\Embarcadero\Studio\Projects\SAHAM BETA 2\uSahamBetaHome.dfm=C:\Users\Phantom\OneDrive\Documents\Embarcadero\Studio\Projects\SAHAM BETA 2\uSahamBetaData.dfm</Transaction>
+    <Transaction>2019/06/29 16:36:08.000.190,C:\Users\Phantom\OneDrive\Documents\Embarcadero\Studio\Projects\SAHAM BETA 2\uSahamBetaHome.pas=C:\Users\Phantom\OneDrive\Documents\Embarcadero\Studio\Projects\SAHAM BETA 2\uSahamBetaData.pas</Transaction>
+    <Transaction>2019/06/29 16:36:34.000.626,=C:\Users\Phantom\OneDrive\Documents\Embarcadero\Studio\Projects\SAHAM BETA 2\uSahamBetaData.pas</Transaction>
+    <Transaction>2019/07/06 00:23:30.000.727,=C:\Users\Phantom\OneDrive\Documents\Embarcadero\Studio\Projects\SAHAM BETA 2\uSahamBetaSplash.pas</Transaction>
+  </Transactions>
+</BorlandProject>
